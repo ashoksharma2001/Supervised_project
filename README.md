@@ -11,7 +11,7 @@ This project analyzes heart attack data in India using Jupyter Notebook. The not
 
 ## File Structure
 - **Heart_Attack_India.ipynb** - The main Jupyter Notebook containing code, analysis, and visualizations.
-- **data/** - (If applicable) Contains datasets used for analysis.
+- **data/** - heart_attack_youngsters_india.csv
 - **README.md** - Project documentation.
 
 ## Installation
@@ -19,15 +19,6 @@ This project analyzes heart attack data in India using Jupyter Notebook. The not
    ```bash
    git clone https://github.com/yourusername/Heart_Attack_India.git
    cd Heart_Attack_India
-   ```
-2. Create a virtual environment (optional but recommended):
-   ```bash
-   python -m venv env
-   source env/bin/activate   # On Windows: env\Scripts\activate
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
    ```
 
 ## Usage
@@ -45,9 +36,7 @@ This project analyzes heart attack data in India using Jupyter Notebook. The not
 ## Contributing
 Contributions are welcome! Feel free to fork this repository, create a new branch, and submit a pull request.
 
-## License
-This project is licensed under the MIT License.
 
 ## Contact
-For any questions, please reach out to [your email] or open an issue on GitHub.
+For any questions, please reach out to [ashoksh098@gmail.com] or open an issue on GitHub.
 
